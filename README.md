@@ -10,5 +10,7 @@ The name Airswim is a play on a legal platforms mod, Airjump. I thought it was c
 Im not good at C# and Github and stuff so don't expect my stuff to work right
 After you get rid of the water, you may still here everything muffled.
 Im working on makine the mod feel and look nicer, but since I released it i may stop working on it
+# Because me Repo is a hot mess, here is the Plugin.cs
+https://github.com/Nicktender/Airswim/blob/Master/Plugin.cs
 # Im not affiliated with Another Axiom!!
 This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom LLC.
